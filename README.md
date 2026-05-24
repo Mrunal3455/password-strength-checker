@@ -15,14 +15,14 @@ A Python-based command-line application that evaluates the strength of a passwor
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3
 - **Modules:** `re` (Regular Expressions) — built-in, no installation needed
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Make sure Python 3 is installed on your system
 2. Clone this repository:
@@ -88,8 +88,6 @@ Enter your password: hello
 ```
 
 ---
-
-## 👤 Author
 
 **Mrunal Pansare**  
 📧 mrunalpansare48645@gmail.com  
